@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-##Recent News
+## Recent News
 ======
 
-##Publication
+## Publication
 ======
 
-##Education
+## Education
 ======
