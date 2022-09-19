@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuxi Ling's Site"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Recent News
+
+##Recent News
 ======
 
+##Publication
+======
+
+##Education
+======
