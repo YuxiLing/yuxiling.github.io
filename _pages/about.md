@@ -12,7 +12,7 @@ redirect_from:
 ## Recent News
 [13 Oct 2022] I give my first on-site conference presentation at ASE 2022.
 
-[4 Oct 2022] Our paper as well as my Master's dissertation on cryptocurrency-themed malicious is accepted by SIGMETRICS 2023.
+[4 Oct 2022] Our paper as well as my Master's dissertation on cryptocurrency-themed malicious browser extensions is accepted by SIGMETRICS 2023.
 
 [17 Aug 2022] Our paper on privacy compliance is accepted by ASE 2022.
 
