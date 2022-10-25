@@ -21,5 +21,10 @@ I'm a research assistant at National University of Singapore. I received my M.S 
 Currently, I'm looking for a Ph.D. position. 
 
 ## Publication
-======
+<!-- {% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+ -->
 
