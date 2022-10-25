@@ -20,14 +20,15 @@ redirect_from:
 
 ## About
 I'm a research assistant at National University of Singapore. I received my M.S degree in Information Security from NUS in 2022. I received my B.S. degree in Software Engineering from Shandong University in 2020. My research interests include Privacy, Program Analysis, Software Security, and Software Engineering.
+I'm also interested in CTF. You can find my team [Jv5t4Fun](https://ctftime.org/team/164352) here. OK, as yet, there is only myself `_`.
 
 Currently, I'm looking for a Ph.D. position. 
 
 ## Publication
-<!-- {% include base_path %}
+{% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
- -->
+
 
