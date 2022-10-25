@@ -25,7 +25,7 @@ I'm also interested in CTF and looking for teammates. You can find my team [Jv5t
 
 Currently, I'm looking for a Ph.D. position. 
 
-## Publication
+## Publications
 {% include base_path %}
 
 {% for post in site.publications reversed %}
