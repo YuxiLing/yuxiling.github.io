@@ -29,7 +29,6 @@ Currently, I'm looking for a Ph.D. position.
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-<i>1<\i>
   {% include archive-single.html %}
 {% endfor %}
 
