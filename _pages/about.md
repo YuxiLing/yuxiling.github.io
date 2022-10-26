@@ -26,11 +26,10 @@ I'm also interested in CTF and looking for teammates. You can find my team [Jv5t
 Currently, I'm looking for a Ph.D. position. 
 
 ## Publications
-test1
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+<i>1<\i>
   {% include archive-single.html %}
 {% endfor %}
 
