@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuxi Ling"
   avatar           : "yuxi.png"
-  bio              : "Research Assistant<br> School of Computing<br> National University of Singapore"
+  bio              : "Ph.D. Student<br> Computer Science<br> School of Computing<br> National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  "yuxiling@nus.edu.sg"
+  email            :  "yuxiling@u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
