@@ -10,6 +10,10 @@ redirect_from:
 
 
 ## Recent News
+[16 Dec 2023] Our paper on data minimization is accepted by SANER 2024.
+
+[18 Jun 2023] I give a conference presentation at SIGMETRICS 2023.
+
 [9 Jan 2023] I become a Ph.D. student at NUS.
 
 [13 Oct 2022] I give my first on-site conference presentation at ASE 2022.
@@ -21,7 +25,7 @@ redirect_from:
 [28 Feb 2022] I become a research assistant in PLSE lab at NUS. :)
 
 ## About
-I'm a Ph.D. student in PLSE lab at National University of Singapore (School of Computing). I received my M.S degree in Information Security from NUS in 2022. I received my B.S. degree in Software Engineering from Shandong University in 2020. My research interests include Privacy, Program Analysis, Software Security, and Software Engineering.
+I'm a Ph.D. student in PLSE lab at National University of Singapore (School of Computing). I received my M.S degree in Information Security from NUS in 2022. I received my B.S. degree in Software Engineering from Shandong University in 2020. My research interests include Program Analysis, Software Security, and Software Engineering.
 
 I'm also interested in CTF and looking for teammates. You can find my team [Jv5t4Fun](https://ctftime.org/team/164352) here. OK, as yet, there is only myself T_T.
  
