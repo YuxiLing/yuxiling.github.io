@@ -59,13 +59,12 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
+    {% elsif post.paperurl and post.projecturl%}
+    <p><a href=" {{ post.paperurl }} "><u>[PDF]</u></a> <a href=" {{ post.projecturl }} "><u>[Page]</u></a></p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} "><u>[PDF]</u></a></p>
     {% endif %}
 
-    {% if post.projecturl %}
-      <p><a href=" {{ post.projecturl }} "><u>[Github]</u></a></p>
-    {% endif %}
 
   </article>
 </div>
