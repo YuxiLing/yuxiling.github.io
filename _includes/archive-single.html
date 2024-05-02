@@ -32,7 +32,7 @@
         <a>{{ title }}</a> 
 <!--       <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> -->
       {% else %}
-        <!-- <p><span>{{post.number}}. </span>{{ title }}</p> -->
+        <p><span>{{ title }}</p>
       {% endif %}
     </h3>
     
@@ -45,7 +45,7 @@
         {% elsif post.collection == 'publications' %}
           <i>{{ post.author }}</i><br>
           <i>{{ post.venue }}</i>, {{post.year}}.<br>
-          {% elsif post.collection == 'srcompetitions' %}
+        {% elsif post.collection == 'srcompetitions' %}
           <i>{{ post.author }}</i><br>
           <i>{{ post.venue }}</i>, {{post.year}}.<br>
         {% elsif post.date %}

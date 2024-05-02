@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  srcompetitions:
+    output: true
+    permalink: /:collection/:path/
 #   portfolio:
 #     output: false
 #     permalink: /:collection/:path/
