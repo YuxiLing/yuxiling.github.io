@@ -38,3 +38,10 @@ I'm also interested in CTF and looking for teammates. You can find my team [Jv5t
 {% endfor %}
 
 
+## Student Research Competition
+{% include base_path %}
+
+{% for post in site.srcompetitions reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
