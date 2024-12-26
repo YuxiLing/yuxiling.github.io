@@ -27,7 +27,7 @@ redirect_from:
 [28 Feb 2022] I become a research assistant in PLSE lab at NUS. :)
 
 ## About
-I'm a Ph.D. student in PLSE lab at National University of Singapore (School of Computing). I received my M.S degree in Information Security from NUS in 2022 and B.S. degree in Software Engineering from Shandong University in 2020. My research interests include software security, program analysis, and programming languages. I am now exploring topics in program synthesis and program logics with [Prof. Ilya](https://ilyasergey.net/).
+I'm a Ph.D. student in PLSE lab at National University of Singapore (School of Computing). I received my M.S degree in Information Security from NUS in 2022 and B.S. degree in Software Engineering from Shandong University in 2020. My research interests include software security, program analysis, and programming languages. I am now exploring topics in program synthesis and program logics with [Prof. Ilya Sergey](https://ilyasergey.net/).
 
 I'm also interested in CTF and looking for teammates. You can find my team [Jv5t4Fun](https://ctftime.org/team/164352) here. OK, as yet, there is only myself T_T.
 
