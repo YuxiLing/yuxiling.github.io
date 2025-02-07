@@ -10,15 +10,13 @@ redirect_from:
 
 
 ## Recent News
+[24 Jan 2025] Our paper on programming language synthsis for automated exploit generation is accepted by Usenix Security 2025.
+
 [27 Jun 2024] I present my poster on programming language synthesis at PLDI SRC 2024.
 
 [16 Dec 2023] Our paper on data minimization is accepted by SANER 2024.
 
-[18 Jun 2023] I give a conference presentation at SIGMETRICS 2023.
-
 [9 Jan 2023] I become a Ph.D. student at NUS.
-
-[13 Oct 2022] I give my first on-site conference presentation at ASE 2022.
 
 [4 Oct 2022] Our paper as well as my Master's dissertation on cryptocurrency-themed malicious browser extensions is accepted by SIGMETRICS 2023.
 
