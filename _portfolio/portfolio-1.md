@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Langkawi Retreat 07-2025"
+excerpt: "A peaceful island of blue seas and quiet skies. We held Verse Seminars at the hotel -- even with a sea-view meeting room and tea-break snacks! In the afternoons, we set out to explored the island. I like the moment of having a coconut ice cream at the top of Langkawi's highest mountain, looking out over the island's breathtaking landscape. This picture was taken during our mangrove safari tour."
+image: "/images/langkawi1.JPG"
 collection: portfolio
 ---
 
