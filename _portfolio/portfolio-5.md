@@ -1,7 +1,7 @@
 ---
-title: "Verse Christmas 12-2023"
-excerpt: "This was a wonderful (and yes, very expensive) Brazil Barbecue hidden in Bukit Timah, one of the most famous upscale area in Singapore. We came here to celebrate Christmas 2023."
-image: "/images/christmas1.JPG"
+title: "PLDI Copenhagen Trip 06-2024"
+excerpt: "We arrived one day before the main conference. I rented a car for a one-day road trip. The original travel proposal included four famous castles and ancient villiges around Zealand island. But my advisor rejected it and chose to visit only one castle and a wild deer park. It turned out to be a wonderful and relexing trip. This picture was taken with our fancy car just before we set off."
+image: "/images/bmw.JPG"
 collection: portfolio
 ---
 

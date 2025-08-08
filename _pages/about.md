@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 ## Recent News
 [24 Jan 2025] Our paper on programming language synthsis for automated exploit generation is accepted by Usenix Security 2025.
 

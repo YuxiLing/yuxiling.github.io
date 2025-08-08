@@ -18,6 +18,6 @@ Last update: 08-08-2025
 
 
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% include archive-single-portfolio.html %}
 {% endfor %}
 
