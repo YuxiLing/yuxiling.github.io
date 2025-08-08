@@ -1,6 +1,6 @@
 ---
 title: "Verse Christmas 12-2023"
-excerpt: "This was a wonderful (and yes, very expensive) Brazil Barbecue hidden in Bukit Timah, one of the most famous upscale area in Singapore. We came here to celebrate Christmas 2023."
+excerpt: "This was a wonderful (and yes, very expensive) Brazil Barbecue hidden in Bukit Timah, one of the most famous upscale area in Singapore. We came here to celebrate Christmas 2023. We also had a fun secret santa event this year."
 image: "/images/christmas1.JPG"
 collection: portfolio
 ---
