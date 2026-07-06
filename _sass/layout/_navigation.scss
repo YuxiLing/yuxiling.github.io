@@ -202,8 +202,42 @@
     z-index: 100;
   }
 
+  #theme-toggle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    z-index: 101;
+
+    a {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 25px;
+      margin: 0 0.75rem 0 0;
+      padding: 0.5rem 0;
+      color: var(--global-masthead-link-color);
+      cursor: pointer;
+
+      &:hover {
+        color: var(--global-masthead-link-color-hover);
+      }
+
+      &:before {
+        display: none;
+      }
+    }
+  }
+
+  button:not(.hidden) ~ #theme-toggle {
+    right: 2.5rem;
+  }
+
   .visible-links {
     display: table;
+    padding-right: 2.75rem;
 
     li {
       display: table-cell;
@@ -222,15 +256,6 @@
         a {
           margin-right: 0;
         }
-      }
-    }
-
-    #theme-toggle {
-      a {
-        width: 25px;
-        display: flex;
-        justify-content: center;
-        cursor: pointer;
       }
     }
 
